@@ -51,19 +51,19 @@ export const SEARCH: Page = {
 export const STUDIES = [
   {
     title: 'Computer Science',
-    institution: 'Graphic Era University',
+    institution: 'B.Tech CSE Hons.: Graphic Era University',
     link: 'https://gehu.ac.in/',
     date: '2019 - 2027',
   },
   {
     title: 'X',
-    institution: 'Shiksha Niketan',
+    institution: 'X : Shiksha Niketan',
     link: 'https://shikshaniketanjk.in/',
     date: '2018 - 2022',
   },
   {
     title: 'XII',
-    institution: 'Shiksha Niketan',
+    institution: 'XII : Shiksha Niketan',
     link: 'https://shikshaniketanjk.in/',
     date: '2018 - 2022',
   }
